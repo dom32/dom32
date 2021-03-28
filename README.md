@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋
 I am <a href="https://github.com/"> Limon</a>. An Undergraduate from IT branch. I am currently working on <b>MERN</b> stack along with GraphQL. Also I can create prototypes in Adobe XD. Besides programming, I love to play rubik's qube
 </br>
-<!--- <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/dom32/dom32/master/code.gif"/> --->
+<img align="right" height="350px" width="450px" src="https://user-images.githubusercontent.com/53502517/112759914-f3dd9f00-9016-11eb-85b9-e240291390de.gif"/>
 </br>
 <b>Talking About Myself</b></br>
 •  I’m always working on something cool💻 </br>
