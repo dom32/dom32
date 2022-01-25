@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there 👋
-I am <a href="https://github.com/"> Limon</a>. An Undergraduate from IT branch. I am currently working on <b>MERN</b> stack along with GraphQL. Also I can create prototypes in Adobe XD. Besides programming, I love to play rubik's qube <img align="" height="16px" width="16px" src="https://user-images.githubusercontent.com/53502517/112760050-6fd7e700-9017-11eb-8e1b-0f6b4cf7f2b7.png"/>
+I am <a href="https://github.com/"> Limon</a>. An Undergraduate from IT branch. I am currently working on <b>----</b> stack along with -----. Also I can create prototypes in Adobe XD. Besides programming, I love to play rubik's qube <img align="" height="16px" width="16px" src="https://user-images.githubusercontent.com/53502517/112760050-6fd7e700-9017-11eb-8e1b-0f6b4cf7f2b7.png"/>
 </br>
 <img align="right" height="350px" width="450px" src="https://user-images.githubusercontent.com/53502517/112759914-f3dd9f00-9016-11eb-85b9-e240291390de.gif"/>
 </br>
